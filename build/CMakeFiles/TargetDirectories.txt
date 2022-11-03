@@ -1,0 +1,6 @@
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/rebuild_cache.dir
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/edit_cache.dir
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/dart_bspatch.dir
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/bspatch.dir
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/dart_bsdiff.dir
+/Users/aikucun/workspace/bsdiff/build/CMakeFiles/bsdiff.dir

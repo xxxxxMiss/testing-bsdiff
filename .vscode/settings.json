@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		".env.*": "env",
+		"www": "javascript",
+		"*.tsx": "typescriptreact",
+		"*.jsx": "javascriptreact",
+		"*.ts": "typescript",
+		"stdint.h": "c"
+	}
+}
